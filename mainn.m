@@ -1,5 +1,8 @@
      clc;clear;close   
      warning off
+%% '================ Written by Farhad AbedinZadeh ================'
+%                                                                 %
+% % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % % %  
 %% 
 path='.\GaitData\*.mat' ;
 files=dir(path);
